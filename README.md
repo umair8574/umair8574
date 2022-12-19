@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
 <h3 align="center">A passionate developer, exploring the universe of codind</h3>
-<img align=“right” alt=“coding image” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<img align=“right” alt=“image” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair8574&label=Profile%20views&color=0e75b6&style=flat" alt="umair8574" /> </p>
 
